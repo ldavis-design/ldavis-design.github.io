@@ -38,15 +38,15 @@ Recent Publications
 Education
 ------
 **PhD Electrical and Computer Engineering - McGill University**
-\n*January 2025 - Present*
+*January 2025 - Present*
 
 **MSc Social Data Science  - University of Oxford**
-\n*September 2023 - October 2024*
+*September 2023 - October 2024*
 
 **BEng Biomedical Engineering with Co-operative Education (Honours) - University of Guelph**
 Microcertificate in User Design and Teaching Pedagogy
 
-\n*September 2018 - June 2023*
+*September 2018 - June 2023*
 
 Work
 ------
