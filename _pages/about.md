@@ -30,6 +30,7 @@ I also currently work for the **TRAIL program for Mila - Quebec AI Institute**, 
 
 Highlights 
 ======
+
 Recent Publications
 ------
 *Rismani, S., Davis, L., Mingole, B., Rostamzadeh, N., Shelby, R., & Moon, A. (2025). Responsible AI measures dataset for ethics evaluation of AI systems. Scientific Data. https://www.nature.com/articles/s41597-025-06021-5_reference.pdf.*
