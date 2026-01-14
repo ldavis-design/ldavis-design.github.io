@@ -38,6 +38,10 @@ Recent Publications
 
 *Rismani, S., Shelby, R., Davis, L., Rostamzadeh, N., & Moon, A. (2025, October). Measuring What Matters: Connecting AI Ethics Evaluations to System Attributes, Hazards, and Harms. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (Vol. 8, No. 3, pp. 2199-2213). [https://ojs.aaai.org/index.php/AIES/article/view/36706](https://ojs.aaai.org/index.php/AIES/article/view/36706).*
 
+[Non-Referred; Accepted] Davis, L. & Moon, A. (2025). Integration Not Isolation: Why Canada’s Regulatory Accountability Depends on the Interconnections of Algorithmic System Evaluations. Canadian Technology Law Conference. Dalhousie University, Halifax.
+
+[Non-Refereed; Published] Davis, L., Reid, K., Arnold, L., Mohammed, S., Moses, S., Amarasekera, P. (2022). Distance and Online Education Working Group Report and Technology Support Starter Pack. Engineering Student Societies’ Council of Ontario. hpps://www.essco.ca/distance-wg
+
 Education
 ------
 **PhD Electrical and Computer Engineering - McGill University**
@@ -53,8 +57,40 @@ Microcertificate in User Design and Teaching Pedagogy
 
 *September 2018 - June 2023*
 
-Work
+Teaching Experience 
 ------
+
+**TRAIL Program: Responsible AI for Professionals and Leaders**, Mila – Quebec AI Institute, Montreal, QC
+
+*October 2024 - Present*
+
+
+**Program Designer**, Centre for Advancing Responsible and Ethical AI, University of Guelph, Guelph, ON, CAN
+
+*May 2023 – October 2023*
+
+**Senior Engineering Peer Helper Facilitator and Trainer**, School of Engineering, University of Guelph, Guelph, ON, CAN
+
+*May 2019 – Sept. 2023*
+
+**Senior Teaching Assistant, Co-operative Education and Career Services**,University of Guelph, Guelph, ON, CAN
+
+*May 2022 – Oct. 2022 / Oct. 2021 – Jan. 2022*
+
+
+Professional Experience 
+------
+**Full-Time Researcher, Fairness and Transparency in Machine Learning**, Mila – Quebec AI Institute, Montreal, QC
+
+*July 2023 – Present*
+
+**Undergraduate Retention Coordinator**, The Quad Platform, University of Guelph, Guelph, ON
+
+*May 2020 – September 2023*
+
+**Software Test Engineer Co-op**, Sonova Group, Kitchener, ON, CAN
+
+*May 2022 – December 2022 / January 2021 – August 2021*
 
 
 For more info
