@@ -33,6 +33,7 @@ Highlights
 
 Recent Publications
 ------
+
 *Rismani, S., Davis, L., Mingole, B., Rostamzadeh, N., Shelby, R., & Moon, A. (2025). Responsible AI measures dataset for ethics evaluation of AI systems. Scientific Data. https://www.nature.com/articles/s41597-025-06021-5_reference.pdf.*
 
 *Rismani, S., Shelby, R., Davis, L., Rostamzadeh, N., & Moon, A. (2025, October). Measuring What Matters: Connecting AI Ethics Evaluations to System Attributes, Hazards, and Harms. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (Vol. 8, No. 3, pp. 2199-2213). https://ojs.aaai.org/index.php/AIES/article/view/36706.*
