@@ -17,6 +17,7 @@ You can email me at leah.davis@mail.mcgill.ca or leah.davis@mila.quebec.ca.
 
 What am I currently up to?
 ======
+
 Three research projects currently hold my attention:
 
 🌟**General All-Purpose Sociotechnical Algorithmic Auditing Project:** In collaboration with Professor AJung Moon at McGill University and Dr. Dominic Martin and Dr. Sébastien Gambs at Université du Québec à Montréal, in addition to L'Observatoire international sur les impacts sociétaux de l'IA et du numérique (OBVIA). Following an extensive scoping review process of over 3,000 algorithmic evaluation articles, this work aims to consider the complexities and potential solutions for systems-level AI audits of general-purpose AI systems, including large language models, visual and audio models, and image-to-text models.
